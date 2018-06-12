@@ -185,7 +185,7 @@ int main()
 {
  
     try {
-		msr::airlib::MultirotorRpcLibClient client("172.16.0.1");
+		msr::airlib::MultirotorRpcLibClient client("129.67.95.151");
         client.confirmConnection();
         
         //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
